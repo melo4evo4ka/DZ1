@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DZ1-MingazovAA</string>
+    <string name="btn_open_image">Open image</string>
+    <string name="btn_exit">Exit</string>
+    <string name="сhoose_image">Choose image</string>
+    <string name="btn_back">back</string>
+
+</resources>
